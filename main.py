@@ -5,7 +5,6 @@ from random import choice
 
 
 file_name = "cookies.json"
-executable_path = r"C:\Users\Suraj\epic-games-freebie\geckodriver"
 driver = webdriver.Firefox()
 link = "https://steamcommunity.com/sharedfiles/filedetails/?id=2017703319" #Collection link 
 number = 10 #Number of items to sub
