@@ -9,3 +9,7 @@ step 2. Go to https://steamcommunity.com/.
 step 3. Export Cookies using the extension and copy all of its content into the cookies.json file.
 
 step 4. Run the script and have your fingers crossed."# steam-random-subscriber" 
+
+# Demonstration 
+
+[![Watch the video](https://img.youtube.com/vi/5lWNYYwfqpE/maxresdefault.jpg)](https://youtu.be/5lWNYYwfqpE)
