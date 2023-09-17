@@ -1,6 +1,6 @@
 # Steam Random Subscriber
-out of all the collection item subscribe to random items 
-useful when you want to get some random wallpaper out of a big collection
+out of all the collection item subscribe to random items </br>
+useful when you want to get some random wallpaper out of a big collection </br>
 it uses [This](https://steamcommunity.com/sharedfiles/filedetails/?id=2017703319) to showcase
 
 # How to Use ?
