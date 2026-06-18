@@ -1,4 +1,5 @@
 from selenium import webdriver
+from selenium.webdriver.common.by import By
 from json import load
 from selenium.common import exceptions
 from random import choice
@@ -25,8 +26,8 @@ for cookie in cookie_dict["cookies"]:
 
 driver.get_cookies()
 driver.get(link)
-buttons = driver.find_elements_by_class_name("subscribe")
-for x in driver.find_elements_by_class_name("toggled"):
+buttons = driver.find_elements(By.CLASS_NAME,"subscribe")
+for x in driver.find_elements(By.CLASS_NAME,"toggled"):
     try:
         buttons.remove(x)
     except ValueError:
