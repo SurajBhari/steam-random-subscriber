@@ -1,4 +1,9 @@
 # Steam Random Subscriber
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Steam](https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white)
+
 out of all the collection item subscribe to random items </br>
 useful when you want to get some random wallpaper out of a big collection </br>
 it uses [This](https://steamcommunity.com/sharedfiles/filedetails/?id=2017703319) to showcase
